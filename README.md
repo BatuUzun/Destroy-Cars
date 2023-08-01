@@ -6,6 +6,7 @@ From top right side, you can see remaining time, cars destroyed and total score.
 Maximum 5 cars displayed in the screen.
 Cars are created with random colors.
 You can fire missile by pressing spacebar.
+After the game, you can see your scores on screen.
 In order to see whole project running, you can check my Google Drive. My Google Drive: https://drive.google.com/drive/folders/1O_LmIbuV2p74tTmWLyHS0zeXEH6-s0Sr?usp=sharing
 ![DestroyCars1](https://github.com/BatuUzun/Destroy-Cars/assets/103521291/b977de24-870d-4d3b-8a69-33574de219a5)
 
